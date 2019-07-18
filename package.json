@@ -1,0 +1,18 @@
+{
+  "name": "animaproject",
+  "version": "1.0.0",
+  "description": "This is a test using Docker, nodejs, Serverless and Dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sls": "serverless",
+    "start": "sls offline start"
+  },
+  "author": "FreakDroid",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.494.0",
+    "serverless": "^1.47.0",
+    "serverless-offline": "^5.8.0"
+  }
+}

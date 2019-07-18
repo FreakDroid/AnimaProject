@@ -1,0 +1,4 @@
+list:
+  handler: myService/handler.hello
+  events:
+  - http: get /helloworld
