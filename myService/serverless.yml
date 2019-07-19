@@ -1,4 +1,4 @@
-list:
+get:
   handler: myService/handler.hello
   events:
-  - http: get /helloworld
+    - http: get /author/{id}

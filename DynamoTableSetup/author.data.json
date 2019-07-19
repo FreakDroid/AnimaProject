@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Luke",
+    "email": "Skywalker",
+    "dob" : "12/9/1986"
+  },
+  {
+    "id": "2",
+    "name": "Arthur",
+    "email": "Skywalker",
+    "dob" : "12/9/1987"
+  }
+]
